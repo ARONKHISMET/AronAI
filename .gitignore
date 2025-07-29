@@ -1,0 +1,28 @@
+# Gradle
+.gradle/
+build/
+.idea/
+*.iml
+
+# Android Studio
+local.properties
+captures/
+.cxx/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Log/temporary
+*.log
+*.tmp
+
+# Models & Binaries
+*.gguf
+*.bin
+*.so
+*.aar
+
+# Keystore
+*.jks
+*.keystore
